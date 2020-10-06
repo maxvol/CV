@@ -15,10 +15,14 @@
 * Plotly
 * Bokeh
 
+# Forecasting
+* ARIMA
+* Bayesian Structural Time Series (BSTS)
+
 # Cloud & BigData
-  * BigQuery
-  * Airflow
-  * PySpark
+* BigQuery
+* Airflow
+* PySpark
 
 # Programming Languages
 * Python
