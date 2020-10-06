@@ -1,10 +1,11 @@
 # CV: Data Scientist / Machine Learning Engineer
 
 ## Machine Learning (ML)
-Supervised:
+supervised:
 * scikit-learn
 * XGBoost
-Unsupervised:
+
+unsupervised:
 * t-SNE
 * NMF
 * K-means
