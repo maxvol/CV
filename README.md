@@ -1,6 +1,4 @@
-# CV
-
-# Data Scientist / Machine Learning Engineer
+# CV: Data Scientist / Machine Learning Engineer
 
 # Machine Learning
 * scikit-learn
