@@ -33,7 +33,7 @@ Deep Reinforecement Learning (RL)
 
 Probabilistic Deep Learning: max likelihood models, Normalizing Flows (NF), Bayesian Neural Networks (BNN)
 * tf-probability
-* Pyro.ai
+* pyro.ai
 
 # Special Powers
 
