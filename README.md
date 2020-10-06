@@ -31,7 +31,7 @@
 * Swift
 * R
 
-# Special Interests
+## Special Interests
 Deep Reinforecement Learning (RL)
 * OpenAI Gym
 * tf-agents
