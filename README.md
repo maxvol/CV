@@ -18,10 +18,9 @@
 * Bokeh
 
 # Cloud & BigData
-* PySpark
-Google Cloud Platform (GCP)
   * BigQuery
   * Airflow
+  * PySpark
 
 # Programming Languages
 * Python
