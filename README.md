@@ -12,7 +12,7 @@
 
 ## Data Visualisation
 * TIBCO Spotfire
-* Matplotlib
+* matplotlib
 * Seaborn
 * Plotly
 * Bokeh
