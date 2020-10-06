@@ -1,7 +1,13 @@
 # CV: Data Scientist / Machine Learning Engineer
 
 ## Machine Learning (ML)
+Supervised:
 * scikit-learn
+* XGBoost
+Unsupervised:
+* t-SNE
+* NMF
+* K-means
 
 ## Deep Learning (DL)
 * PyTorch
@@ -30,7 +36,6 @@
 * R
 
 # Special Interests
-
 Deep Reinforecement Learning (RL)
 * OpenAI Gym
 * tf-agents
@@ -40,14 +45,12 @@ Probabilistic Deep Learning: max likelihood models, Normalizing Flows (NF), Baye
 * pyro.ai
 
 ## Special Powers
-
 iOS/iPadOS 14+ general-purpose machine learning libraries:
 * MetalPerformanceShadersGraph
 * Accelerate/BNNS
 * MLCompute
 
 ## Certificates
-
 * [Coursera](https://github.com/maxvol/Coursera)
 * [DataCamp](https://github.com/maxvol/DataCamp)
 
