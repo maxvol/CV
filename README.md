@@ -2,10 +2,8 @@
 
 ## Machine Learning (ML)
 * scikit-learn
+* SciPy
 * XGBoost
-* t-SNE
-* NMF
-* K-means
 
 ## Deep Learning (DL)
 * PyTorch
