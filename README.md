@@ -1,30 +1,30 @@
 # CV: Data Scientist / Machine Learning Engineer
 
-# Machine Learning
+## Machine Learning
 * scikit-learn
 
-# Deep Learning (DL)
+## Deep Learning (DL)
 * PyTorch
 * Tensorflow v1&2
 * Swift for Tensorflow (S4TF)
 
-# Data Visualisation
+## Data Visualisation
 * TIBCO Spotfire
 * Matplotlib
 * Seaborn
 * Plotly
 * Bokeh
 
-# Forecasting
+## Forecasting
 * ARIMA
 * Bayesian Structural Time Series (BSTS)
 
-# Cloud & BigData
+## Cloud & BigData
 * BigQuery
 * Airflow
 * PySpark
 
-# Programming Languages
+## Programming Languages
 * Python
 * Swift
 * R
@@ -39,18 +39,18 @@ Probabilistic Deep Learning: max likelihood models, Normalizing Flows (NF), Baye
 * tf-probability
 * pyro.ai
 
-# Special Powers
+## Special Powers
 
 iOS/iPadOS 14+ general-purpose machine learning libraries:
 * MetalPerformanceShadersGraph
 * Accelerate/BNNS
 * MLCompute
 
-# Certificates
+## Certificates
 
 * [Coursera](https://github.com/maxvol/Coursera)
 * [DataCamp](https://github.com/maxvol/DataCamp)
 
-# Articles
+## Articles
 
 * [The many flavours of Reinforcement Learning](https://medium.com/@maxim.volgin/the-many-flavours-of-reinforcement-learning-7f9eda6798eb)
