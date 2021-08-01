@@ -5,6 +5,11 @@
 * SciPy
 * XGBoost
 
+## Evolutionary Computation
+GA, GP, ES, PSO, PSO, EDA
+* DEAP
+* gplearn
+
 ## Deep Learning (DL)
 * PyTorch
 * Tensorflow v1&2
@@ -19,26 +24,47 @@
 
 ## Forecasting
 * ARIMA
+* Prophet
 * Bayesian Structural Time Series (BSTS)
 
 ## Cloud & BigData
 * BigQuery
 * Airflow
+* Pub/Sub
 * PySpark
+
+## Deep Reinforecement Learning (RL)
+* OpenAI Gym
+* tf-agents
+
+## Probabilistic Deep Learning
+max likelihood models, Normalizing Flows (NF), Bayesian Neural Networks (BNN)
+* tf-probability
+* pyro.ai (Pyro PPL)
+
+## Reinforcement Learning
+* OpenAI Gym
+* TF-Agents
 
 ## Programming Languages
 * Python
 * Swift
 * R
+* C
+* C++
+* Julia
 
-## Special Interests
-Deep Reinforecement Learning (RL)
-* OpenAI Gym
-* tf-agents
+## Digital Marketing
 
-Probabilistic Deep Learning: max likelihood models, Normalizing Flows (NF), Bayesian Neural Networks (BNN)
-* tf-probability
-* pyro.ai
+## Web & Customer Analytics
+
+## Data Science
+
+## Statistics
+* Causal Impact
+
+## Accounting & Financial Administration
+certified
 
 ## Special Powers
 iOS/iPadOS 14+ general-purpose machine learning libraries:
