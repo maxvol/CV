@@ -5,7 +5,7 @@
 * SciPy
 * XGBoost
 
-## Evolutionary Computation
+## Evolutionary Computation (EC)
 GA, GP, ES, PSO, PSO, EDA
 * DEAP
 * gplearn
@@ -27,24 +27,20 @@ GA, GP, ES, PSO, PSO, EDA
 * Prophet
 * Bayesian Structural Time Series (BSTS)
 
+## Deep Reinforecement Learning (RL/DRL)
+* OpenAI Gym
+* tf-agents
+
+## Probabilistic Deep Learning (PDL)
+max likelihood models, Normalizing Flows (NF), Bayesian Neural Networks (BNN)
+* tf-probability
+* pyro.ai (Pyro PPL)
+
 ## Cloud & BigData
 * BigQuery
 * Airflow
 * Pub/Sub
 * PySpark
-
-## Deep Reinforecement Learning (RL)
-* OpenAI Gym
-* tf-agents
-
-## Probabilistic Deep Learning
-max likelihood models, Normalizing Flows (NF), Bayesian Neural Networks (BNN)
-* tf-probability
-* pyro.ai (Pyro PPL)
-
-## Reinforcement Learning
-* OpenAI Gym
-* TF-Agents
 
 ## Programming Languages
 * Python
